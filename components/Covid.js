@@ -94,7 +94,7 @@ export default function Covid({navigation}) {
 
     const filterApiCountry = apiCovidData
     ? AllCountry.filter((item) => {
-        return item.name.includes(searchText);
+        return item.name.toLowerCase().includes(searchText.toLowerCase());
       })
     : AllCountry;
 

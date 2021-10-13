@@ -12,8 +12,9 @@ export default function About() {
                 <Text style={[styles.title_text,{color: '#1db57c'}]}>ສະມາຊິກໃນທີມ</Text>
                <View>
                <Text style={[styles.paragraph_text,{color: '#ffffff'}]}>ທ.ແອ ລໍບົວວັນ | ຫ້ອງ 2CW2</Text>
-                <Text style={[styles.paragraph_text,{color: '#ffffff'}]}>ທ.ກໍລະກົດ ເພັດຊະວົງ | ຫ້ອງ 2CW2</Text>
                 <Text style={[styles.paragraph_text,{color: '#ffffff'}]}>ທ.ຄອນສະຫວັນ ແສງເລກ | ຫ້ອງ 2CW2</Text>
+                <Text style={[styles.paragraph_text,{color: '#ffffff'}]}>ທ.ສອນພາວັນ ສີວັນຄຳ | ຫ້ອງ 2CW2</Text>
+                <Text style={[styles.paragraph_text,{color: '#ffffff'}]}>ທ.ກໍລະກົດ ເພັດຊະວົງ | ຫ້ອງ 2CW2</Text>
                </View>
                 
         </View>
